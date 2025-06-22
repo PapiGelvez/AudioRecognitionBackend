@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+keras
+tensorflow
+librosa
+python-multipart
+resampy
